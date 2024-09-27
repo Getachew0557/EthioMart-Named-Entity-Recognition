@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+matplotlib
+telethon
+python-dotenv

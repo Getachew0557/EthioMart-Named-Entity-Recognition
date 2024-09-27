@@ -1,0 +1,18 @@
+# Ignore the .env file with credentials
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+venv/
+env/
+myenve/
+myenve
+
+# Ignore photos directory (optional, if not storing scraped media in repo)
+photos/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
